@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lennart02
 - 👀 I’m interested in Waterpolo
 - 🌱 I’m currently learning Test Driven Development
-- 💞️ I’m looking to collaborate on my own App, Python Chess Bot, Rimworld Mod
+- 💞️ I’m looking to collaborate on my own App, Python KI Tests
 - 📫 How to reach me: You Don't
 
 <!---
