@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lennart02
-- 👀 I’m interested in Waterpolo
-- 🌱 I’m currently learning Test Driven Development
-- 💞️ I’m looking to collaborate on my own App, Python KI Tests
-- 📫 How to reach me: You Don't
+- 👋 Hi, I’m Lennart
+- 👀 I’m interested in Python and C#
+- 🌱 I’m currently learning C++ and Machine Learning Basics
+- 📫 How to reach me: Discord: Lennart#8350
 
 <!---
 lennart02/lennart02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
