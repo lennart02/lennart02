@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Lennart
-- 👀 I'm interested in Python, C# and AI
-- 🌱 I’m currently learning **React Native**
-- 👨‍🎓 I'm studying Computer Science
+- 👀 I'm interested in C#, Python and React
+- 🌱 I’m currently learning Deep Learning with **PyTorch**
+- 👨‍🎓 I'm studying Computer Science Master
 - 📫 How to reach me: Discord: lennart02
 
 <!---
